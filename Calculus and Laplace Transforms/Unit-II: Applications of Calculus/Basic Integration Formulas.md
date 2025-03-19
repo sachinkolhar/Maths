@@ -38,3 +38,6 @@
 25. ∫√(a² - x²) dx = (x/2)√(a² - x²) + (a²/2)arcsin(x/a) + C
 26. ∫√(x² + a²) dx = (x/2)√(x² + a²) + (a²/2)ln|x + √(x² + a²)| + C
 27. ∫√(x² - a²) dx = (x/2)√(x² - a²) - (a²/2)ln|x + √(x² - a²)| + C
+
+28. <img width="331" alt="image" src="https://github.com/user-attachments/assets/60f6d8fc-3b4d-4cce-bc07-e5fb9effaff1" />
+
