@@ -17,10 +17,10 @@
     where $\alpha_0$ is the initial learning rate and $k$ is the iteration number.
 
 ----------------
-# Examples
+# **1. Minimizing a Quadratic Function:**
+
 
 ## 1
-**1. Minimizing a Quadratic Function:**
 
 * Function: $f(x) = x^2$
 * Gradient: $\nabla f(x) = 2x$
@@ -75,3 +75,19 @@ As we can see, the value of $x$ is iteratively moving closer to the true minimum
 
 ## **Example 3: Minimizing a 2D Quadratic Function**
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/4beedcb1-3c0d-4e61-9712-2dfe9aa3c93c" />
+
+----------------
+## 4
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/5b586677-5f18-45fa-adc6-9e6480a054c9" />
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/4978e14d-4dd4-4f7e-8bb3-86c50729f043" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/5bb8ca82-c06c-4824-9169-6bd7fd6d7c47" />
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/dd4a4181-a883-436d-b386-4303a98e95fd" />
+
+----------------
+## 5 not und
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/1ba90995-312a-4f8a-a871-51252598acaf" />
+
+----------------
+## 6 not und
+
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/6cb85d97-9cc2-4a35-861b-4b0be9006367" />
