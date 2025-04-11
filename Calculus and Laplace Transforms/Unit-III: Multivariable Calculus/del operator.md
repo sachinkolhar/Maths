@@ -18,3 +18,16 @@
 ## curl
 <img width="323" alt="image" src="https://github.com/user-attachments/assets/7cc81511-7b97-4659-ae08-cc5e69ecfc15" />
 <img width="281" alt="image" src="https://github.com/user-attachments/assets/33acd7e6-4439-4efa-a065-9e44aff5b864" />
+
+## curl 2
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/b476c8fa-9807-4781-a7d3-5addc3cbfdb3" />
+
+--------
+## solenoidal (i.e., divergence = 0) and irrotational (i.e., curl = 0).
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/876e854c-0d7e-4199-9e45-a75ad43ec5b0" />
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/67ff037e-44db-4610-b2c1-347294e3e2c4" />
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/81158ab4-dcb0-41c7-812a-6a7f4d9ac2da" />
+
+------------
+## soleno
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/a449a555-1b62-4cff-a8fa-c3bfa41760a0" />
