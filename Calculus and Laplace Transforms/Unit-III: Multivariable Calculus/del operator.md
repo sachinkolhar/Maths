@@ -9,3 +9,12 @@
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/e65a9156-1b3d-4de4-b803-9939fa623549" /> <br>
 
 <img width="344" alt="image" src="https://github.com/user-attachments/assets/dfd33cab-3af4-4635-af42-3669f27b691c" />
+
+----------
+## devergent
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/5c28e5fd-1387-427c-bad9-60cf837b4b67" />
+
+---
+## curl
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/7cc81511-7b97-4659-ae08-cc5e69ecfc15" />
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/33acd7e6-4439-4efa-a065-9e44aff5b864" />
