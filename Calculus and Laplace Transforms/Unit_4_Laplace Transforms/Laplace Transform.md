@@ -44,3 +44,12 @@
 <img width="318" alt="image" src="https://github.com/user-attachments/assets/fd710f62-f725-4e41-8b9d-b8ac0f02d0c9" />
 <img width="431" alt="image" src="https://github.com/user-attachments/assets/09fe6920-609c-4e35-9eb4-cb438671eb66" />
 
+--------
+## set 10-4
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/cf210f5f-cb92-4e1a-b26d-3d260518fa40" />
+
+-------
+set 10-5
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/74425cce-56de-4198-8b6d-3beb6a2528d9" />
+
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/fdb7b835-b790-4a97-b6cc-c45c2250198e" />
