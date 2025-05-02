@@ -91,3 +91,16 @@ As we can see, the value of $x$ is iteratively moving closer to the true minimum
 ## 6 not und
 
 <img width="505" alt="image" src="https://github.com/user-attachments/assets/6cb85d97-9cc2-4a35-861b-4b0be9006367" />
+
+-------------
+## 7 
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/0a947d28-7abd-4483-9e02-0a9ead5e94eb" /> <br>
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/6fc08063-2617-4ca3-91bc-000251572785" />
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/5b2b0553-c6aa-440f-b8fc-1d2776cf248c" />
+
+-----
+## 8
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/b5107900-6da3-423d-9fe5-3cd296c448e5" />
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/58be0d10-82f8-417b-9841-9605a502c883" />
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/aa78493f-0df9-4b82-bda5-9ef9c018d4b1" />
+
