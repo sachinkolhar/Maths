@@ -60,3 +60,18 @@ Higher-order terms involve tensor derivatives.
 <img width="274" alt="image" src="https://github.com/user-attachments/assets/904f9ccf-e7bb-424c-a10e-4e9844c2ed53" />
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/c068afec-4b38-4fdd-9eb4-5c8d42b3911f" />
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/72fee0fb-a42a-44c8-9c50-14cec6c256da" />
+
+# 8
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/be37bf7c-5801-4610-8105-632d0d3bbfa9" />
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/b732a638-54bd-4c8e-ac48-b0213447018f" />
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/7ebd47c5-06c7-4c4d-87e3-6e77bc7bbf0b" />
+<img width="213" alt="image" src="https://github.com/user-attachments/assets/7ccd578a-3fe1-466f-9d0e-7227b094769b" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/efdf6351-3448-4c56-9181-65e5dbcfe353" />
+
+---------
+# 9
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/d3761ba8-59da-4998-b827-92f5d1ab4cdb" />
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/3427dea1-e307-4b26-8380-9a0579c74f7f" />
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/5e5c7657-f3fb-495e-bd43-224f56e9309b" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/b940b6b0-f6ca-45a3-b558-e4108b9395be" />
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/c4828d63-4b20-48f4-a4e5-709950272bb0" />
