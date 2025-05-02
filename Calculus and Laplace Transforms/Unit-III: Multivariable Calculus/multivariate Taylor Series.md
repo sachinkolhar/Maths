@@ -1,3 +1,10 @@
+# Formulae
+<img width="686" alt="image" src="https://github.com/user-attachments/assets/e9e17722-ab00-4d94-89d0-2085a1f789bf" /> <br>
+1. Single-variable Taylor series <br>
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/c9782507-997c-4852-9588-99918b68c348" /> <br>
+2. Multivariable Taylor series (2 variables) <br>
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/b32f9adf-adce-4108-849e-6d36a3b4412e" /> <br>
+
 The multivariate Taylor series provides a local approximation of a function using derivatives. The key takeaways are:
 
 The first-order term is based on the gradient.
