@@ -36,3 +36,41 @@
 
 ---------
 <img width="206" alt="image" src="https://github.com/user-attachments/assets/a44fa3c7-eca5-4a07-acc8-e7294df7bdcd" />
+
+---------
+# Differentiation of implicit function
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/197a0c1e-62fb-4d60-a888-da43f8c73c06" />
+
+---------
+<img width="155" alt="image" src="https://github.com/user-attachments/assets/01d7ef13-cfe2-4281-bc3d-8c6944ebf37b" />
+
+---------
+<img width="201" alt="image" src="https://github.com/user-attachments/assets/8a489d5e-f5dd-4eb4-878f-c7df1f212e41" />
+
+---------
+<img width="207" alt="image" src="https://github.com/user-attachments/assets/8413168b-6018-452b-be0c-9e93134a243a" />
+
+---------
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/b5df5124-f9c3-47ae-bde6-afd00b6c303d" />
+
+---------
+<img width="188" alt="image" src="https://github.com/user-attachments/assets/f690106b-b68c-410d-923f-36cdb5891fc1" />
+
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+---------
