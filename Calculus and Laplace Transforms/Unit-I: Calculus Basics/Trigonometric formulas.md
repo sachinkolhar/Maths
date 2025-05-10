@@ -1,3 +1,13 @@
+### **📊 Summary Table of When Sin, Cos, and Tan Become 0, 1, and -1**  
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/d2039dff-b72a-4c5f-b539-f1e37626db45" />
+ 
+where k is any integer (…,-2, -1, 0, 1, 2, …).
+---
+### Trigonometric functions
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/3ce7889c-62b2-438c-8b4a-833f31f360e7" />
+
+------------------
+
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/ec573661-89b6-4f08-acd6-47a19c87a755" />
 
 -----
@@ -39,3 +49,13 @@
 <img width="488" alt="image" src="https://github.com/user-attachments/assets/d08dbead-5225-4d65-8eaf-51b335e853c2" />
 <img width="394" alt="image" src="https://github.com/user-attachments/assets/4431a6c6-f22b-449a-84c3-3a9de5b81aeb" />
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/e9a308a8-dcbd-4919-9c7f-2737f0bdfa18" />
+
+-------
+# KINEMATICS FORMULAS
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/22f7ce41-7b34-462e-a505-8df0364a37af" />
+
+--------------
+# triangle formulas:
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/48eba383-2f90-477d-9964-bd4d81123028" />
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/7a5cc8d7-3d27-42d7-9c4f-1df68f458e14" />
+
