@@ -1,0 +1,38 @@
+# Logarithmic Differentiation
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/8ce7b5a9-588d-4898-b43a-b8ef7c33166d" />
+
+---------
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/5b7d0122-e681-4430-9f30-7f8a300e6994" />
+
+---------
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/aa19afdc-ffa1-455a-8081-a0776dad8bb5" />
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/3fb72241-dd29-4475-bd99-117332bfb327" />
+
+------------------
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/fb929b6c-438c-4536-80d7-40a60ddba548" />
+
+---------
+<img width="232" alt="image" src="https://github.com/user-attachments/assets/34999dbd-6fe7-4fef-9594-a0c710498e19" />
+
+---------
+<img width="277" alt="image" src="https://github.com/user-attachments/assets/f1fd6f2a-9498-4792-b6c2-85862a88c2f9" />
+<img width="241" alt="image" src="https://github.com/user-attachments/assets/f94f06be-55f3-479f-8ed4-ab42e439f0fc" />
+
+---------
+# Differentiation of parametric function
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/4daabb17-3afd-4fa9-9583-a429cb58ac86" />
+
+---------
+<img width="161" alt="image" src="https://github.com/user-attachments/assets/fd2e5205-4e91-46d4-b39e-808f9435694b" />
+
+---------
+<img width="229" alt="image" src="https://github.com/user-attachments/assets/af2f72f2-747c-435e-9639-b9d312b93120" />
+
+---------
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/6a130705-2254-458d-99f2-575a74d25ac0" />
+
+---------
+<img width="212" alt="image" src="https://github.com/user-attachments/assets/ef59aa6b-a4c4-46a3-b0f6-b733a4535695" />
+
+---------
+<img width="206" alt="image" src="https://github.com/user-attachments/assets/a44fa3c7-eca5-4a07-acc8-e7294df7bdcd" />
