@@ -57,11 +57,26 @@
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/f690106b-b68c-410d-923f-36cdb5891fc1" />
 
 ---------
+# Differentiation of the composition function (chain rule)
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/127fbc03-012d-4eb5-a76c-7a3d93fdaaf2" />
+
 ---------
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/0736ab02-b067-4552-8655-0c3a4c7eae11" />
+
 ---------
+<img width="158" alt="image" src="https://github.com/user-attachments/assets/c72a975f-e255-4672-a27d-67be3cbb54c1" />
+
 ---------
+<img width="178" alt="image" src="https://github.com/user-attachments/assets/d395998c-6c48-4d99-9165-7a617beb2796" />
+
 ---------
+<img width="181" alt="image" src="https://github.com/user-attachments/assets/22741ec7-d95f-4bf4-b28b-f35db4288757" />
+<img width="176" alt="image" src="https://github.com/user-attachments/assets/8d257ad3-4da3-4b58-a938-bcb1db77f8bc" />
+
 ---------
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/7f6e20f3-dfb9-4a1d-8dcb-baa05755610b" />
+<img width="109" alt="image" src="https://github.com/user-attachments/assets/53ecbece-afe0-4413-a632-eaed31a236c8" />
+
 ---------
 ---------
 ---------
