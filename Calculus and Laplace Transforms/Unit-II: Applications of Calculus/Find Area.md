@@ -1,3 +1,64 @@
+# Find the area under the curve for the following:
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/3900da44-858e-4f9d-a0f4-01dae36afaee" /> <br>
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/62c24cf7-3eee-4e17-9fee-4e31bdadc95a" /> <br>
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/fc88b86e-7cb5-45a6-92a7-aa137a897727" /> <br>
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/b5b0e2b7-00ab-42f2-ba7b-5a1fb37debca" /> <br>
+
+-----------------
+
+# 2. Find the area of the region bounded by the curve:
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/bdba7734-7d03-41d1-88c9-89f4d25ad7e6" /> <br>
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/9cefcaa2-c179-4c2a-aad9-62c2ce78f120" /> 
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/8586124f-368e-4359-80d9-b585ff406c7a" /><br>
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/70cd3933-378f-46e5-9d08-fccc8ed6244b" />
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/0c252dec-4a49-4eec-9a84-2397dbeb61ce" /><br>
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/771868a3-c24a-46e3-9842-685fdf9fa0d5" /> <br>
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/7f0f3f36-8167-429c-baf5-91c99269f81d" /> <br>
+
+----------------------------
+# For 2) calculate the area of the region using double integration.
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/12093c9c-ff9a-41f3-a3ca-29dc1626ca2b" />
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/f1fd6468-aacf-460e-9756-1244f9c83412" />
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/4842c87a-dc51-41f0-ba46-0bc0c50f2515" />
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/69b366ff-1886-4fc8-af19-e505653dc525" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/3c75c89f-93f6-48ef-809e-91c51c59db25" />
+
+---------------------
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/b1cf13a2-edde-4db3-9337-3ae542777697" />
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/99b8fd8d-be67-4b84-8560-5817b7eef7cd" />
+
+---------------------------
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/9b24546d-ca66-4843-9d6e-7f2a4f9417b7" />
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/28dd7a62-0a2c-4205-9e40-6533a2b28a60" />
+<img width="288" alt="image" src="https://github.com/user-attachments/assets/b12d7cd7-1530-43f0-a546-2460be0336f6" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/b462b0ed-cf68-4db5-8f03-3034f69528ee" />
+
+--------------------
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/eefee178-1fb5-4fda-9450-b72829c8c4dd" />
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/315c31f2-95f4-494d-9a95-8da9d63594d9" />
+
+----------------
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/44aeeb8c-8048-4fd3-ab98-294252c75afe" />
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/f5cbfb8a-a803-42ee-9c4e-e46090a69677" />
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/08e1a41b-4881-4d94-b195-f0bd4fe34810" />
+
+---------------------
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/9b9506fc-f7b8-4fef-bfe8-44f221a5b25e" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/e90b4a30-d357-4673-84c8-05b371331da2" />
+<img width="288" alt="image" src="https://github.com/user-attachments/assets/8dc07e61-586d-4e86-beb9-33d3f6adef7b" />
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/d5cb6778-52ce-455d-93ec-6303c157372a" />
+
+--------------------------
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/53e33f7e-5346-407f-82be-b2b89f369268" />
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/73b35b20-dca2-45ac-9649-1cf2eec28dbe" />
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/63c563de-529b-48c2-816a-5bd9698ac5b0" />
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/ad4230a4-97b4-4462-96de-ec6255072cbd" />
+
+----------------------
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/92bc3643-e660-4c28-9f74-c968ac9e4b92" />
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/9518ce0c-7b3c-4d60-bd36-2233faf1e699" />
+
+--------------------
 # area of the region
 <img width="489" alt="image" src="https://github.com/user-attachments/assets/432416e8-2eef-4423-80c5-63bf51f4cb8f" />
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/45a90473-e86f-49a2-a5dc-16279ea59557" />
