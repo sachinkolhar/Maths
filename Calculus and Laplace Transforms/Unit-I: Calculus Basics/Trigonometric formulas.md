@@ -1,3 +1,6 @@
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/976a5e3a-a773-4897-a9ba-5a4c5864e762" />
+
+-----------------------
 ### **📊 Summary Table of When Sin, Cos, and Tan Become 0, 1, and -1**  
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/d2039dff-b72a-4c5f-b539-f1e37626db45" />
  
