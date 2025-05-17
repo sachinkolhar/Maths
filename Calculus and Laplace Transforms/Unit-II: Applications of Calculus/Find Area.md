@@ -48,7 +48,9 @@
 ---------------
 ## 7
 <img width="351" alt="image" src="https://github.com/user-attachments/assets/94084c87-7f27-4780-b053-c47c9966384c" />
-
--------------
-## 8
 <img width="345" alt="image" src="https://github.com/user-attachments/assets/f48015ef-0691-4c21-b50c-11223edfaf9d" />
+
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/275bd982-a554-4772-ad77-1c0a83c1cb93" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/dfaeebd8-0eae-4c23-9c3f-62deabbae28d" />
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/af5d65ad-785d-44c3-964f-e5a599a9312b" />
+
