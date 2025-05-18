@@ -2,6 +2,8 @@
 
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/00c8629d-1899-4cab-b9ed-3f84deb27c29" />
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/ad860645-f877-4928-909a-f601adee91c7" />
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/30e50faa-826c-4a4e-ab93-d0a7913a338b" />
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/9ef8e7d0-fef8-4f90-8f55-42127f0dea27" />
 
 
 --------------
@@ -41,7 +43,8 @@ Substitute the values:
 
 **Final Answer:**
 
-The equation of the tangent plane to the surface z = x² + y² at the point (1, 1, 2) is **2x + 2y - z - 2 = 0**.
+The equation of the tangent plane to the surface z = x² + y² at the point (1, 1, 2) is **2x + 2y - z - 2 = 0**. <br>
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/7414c029-709e-4f73-9520-f6c25220740b" />
 
 ---------------
 ## 2. find the equation of the tangent plane to the surface f(x, y) = e^x sin(y) at the point (0, π/2, 1).
