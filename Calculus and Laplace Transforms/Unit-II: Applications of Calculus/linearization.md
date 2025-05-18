@@ -1,5 +1,6 @@
 # linearization
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/f955c3f3-dc47-45ac-87c9-223f3bdecd39" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/db13e431-89e6-4110-a555-36bd8450c746" />
 
 ----
 ## Derive the linear approximation of f(x) = √x at a = 4 and use it to compute √4.02.
