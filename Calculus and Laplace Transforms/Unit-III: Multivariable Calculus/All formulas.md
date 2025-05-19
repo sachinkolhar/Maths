@@ -1,4 +1,5 @@
-# various forms of the  chain rule.
+#  chain rule.
+![WhatsApp Image 2025-05-19 at 17 23 44_e878584a](https://github.com/user-attachments/assets/dc25bb86-7cb1-4bc3-b7b9-c9d4aedbf47f)
 
 **1. Basic Chain Rule with One Intermediate Variable**
 
@@ -96,15 +97,26 @@ This visually represents how z depends on x and y, and x and y depend on s and t
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/b6c4ec31-d31d-4cc3-bc81-bdd4f75d9e0f" /> <br>
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/5aa55ced-b6d3-44ab-92a7-ffd70c6ab25c" />
 <img width="154" alt="image" src="https://github.com/user-attachments/assets/25717bee-f0d2-42eb-95dc-36894dbad208" />
+<img width="514" alt="image" src="https://github.com/user-attachments/assets/314ff473-c25e-4971-84f4-e943f56f848d" /> <br>
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/81353931-b360-4f51-9ab4-ac215c67b582" />
+
+------------
+## directional derivative <br>
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/cf338043-2dee-4a3a-a11b-a88a943e096e" />
+
+## two different F <br>
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/02ee9a1e-b49d-4222-9456-783ac06e8afb" /> <br>
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/b4a6eacc-b0a7-422e-b8b9-3955451bc5af" />
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/905e0cc1-a121-4ff7-b11c-6235be7a28f4" />
 
 ------------------------------
 # Multivariable Taylor series
 ## f(x)
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/5ee25ab9-2cef-40c0-9f64-39bc1b64f444" /> <br>
-<img width="466" alt="image" src="https://github.com/user-attachments/assets/ee9f97c4-8d2f-4544-9e12-a1503601f97f" /> <br>
 
 ## f(x,y)
 ![WhatsApp Image 2025-05-19 at 14 21 08_ab3969e9](https://github.com/user-attachments/assets/7a182b1f-14fe-4e23-89ff-466b81c0afe8) <br>
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/ee9f97c4-8d2f-4544-9e12-a1503601f97f" /> <br>
 
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/e9e17722-ab00-4d94-89d0-2085a1f789bf" /> <br>
 1. Single-variable Taylor series <br>
