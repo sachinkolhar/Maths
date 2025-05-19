@@ -1,4 +1,7 @@
 # Partial derivatives of multivariable functions
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/e1267ec2-1167-4fba-b2f8-d189effdf9fe" />
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/3f8a9316-3b9d-4ce3-a0fb-f8e07ebe36eb" />
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/263fd6e4-ca37-4b46-9c30-8bc62acde73f" />
 
 # Calculate the first and second partial derivatives of the following and verify that fxy = fyx:
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/6f4a6070-6b86-432c-8cea-95933de5b0f2" />
