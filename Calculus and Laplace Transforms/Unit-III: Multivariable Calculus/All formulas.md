@@ -99,6 +99,13 @@ This visually represents how z depends on x and y, and x and y depend on s and t
 
 ------------------------------
 # Multivariable Taylor series
+## f(x)
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/5ee25ab9-2cef-40c0-9f64-39bc1b64f444" /> <br>
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/ee9f97c4-8d2f-4544-9e12-a1503601f97f" /> <br>
+
+## f(x,y)
+![WhatsApp Image 2025-05-19 at 14 21 08_ab3969e9](https://github.com/user-attachments/assets/7a182b1f-14fe-4e23-89ff-466b81c0afe8) <br>
+
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/e9e17722-ab00-4d94-89d0-2085a1f789bf" /> <br>
 1. Single-variable Taylor series <br>
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/c9782507-997c-4852-9588-99918b68c348" /> <br>
