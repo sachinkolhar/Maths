@@ -74,6 +74,7 @@ This visually represents how z depends on x and y, and x and y depend on s and t
 -----
 # Jacobian
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/c7d9becd-3339-4da7-a7d5-ff86a132b4d6" />
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/2dba865e-dc38-49cf-8718-828d306c761e" />
 
 ---------------------
 # Linearization 
@@ -103,6 +104,7 @@ This visually represents how z depends on x and y, and x and y depend on s and t
 ------------
 ## directional derivative <br>
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/cf338043-2dee-4a3a-a11b-a88a943e096e" />
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/b257cbc5-7718-4242-8618-fe1bdbc3a064" />
 
 ## two different F <br>
 <img width="272" alt="image" src="https://github.com/user-attachments/assets/02ee9a1e-b49d-4222-9456-783ac06e8afb" /> <br>
