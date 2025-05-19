@@ -5,18 +5,21 @@
 
 -------------------
 # linearization
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/f955c3f3-dc47-45ac-87c9-223f3bdecd39" />
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/db13e431-89e6-4110-a555-36bd8450c746" />
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/f955c3f3-dc47-45ac-87c9-223f3bdecd39" /> 
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/db13e431-89e6-4110-a555-36bd8450c746" /> 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/2939a60f-a18f-4ec5-9c1c-e3f0c9c06321" />
 
 -------------
 # Integration by Parts
 
 <img width="513" alt="image" src="https://github.com/user-attachments/assets/f6d818bf-7c0e-401d-8038-975c9bd0302e" />
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/8b746360-e775-4e08-a654-da6086fb87da" />
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/8b746360-e775-4e08-a654-da6086fb87da" /> <br>
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/4070e103-bcc2-4999-8dd6-34c40dc99157" />
 
 -----------------------
 # **Conclusion: How to Find Local and Absolute Maxima & Minima**
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/ce2a7858-4453-4057-a143-e02c0175a844" />
+
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/ec16dc88-3aa0-4c7c-ada2-13bda2278cee" />
 <img width="287" alt="image" src="https://github.com/user-attachments/assets/23fd7cce-8f9e-4749-8aba-a5859d5a355f" />
 
