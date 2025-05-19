@@ -194,3 +194,12 @@ This visually represents how z depends on x and y, and x and y depend on s and t
    dw/dt = -2cos(t)sin²(t)t² + cos³(t)t² + 2tcos²(t)sin(t)
 
 **Therefore, dw/dt = -2cos(t)sin²(t)t² + cos³(t)t² + 2tcos²(t)sin(t).**
+
+------------------
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/852bad09-e7f3-448c-86a3-b29e34b96162" />
+
+-------------------
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/d858fabb-ad14-4208-bf4c-2002cc2bfd84" />
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/873715d7-8262-4003-bbb6-9923b306fd43" />
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/0503cdd6-7d53-4ce8-8a41-78ae8d056788" />
+
