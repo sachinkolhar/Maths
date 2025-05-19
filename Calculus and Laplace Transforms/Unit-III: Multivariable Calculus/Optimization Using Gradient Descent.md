@@ -104,3 +104,6 @@ As we can see, the value of $x$ is iteratively moving closer to the true minimum
 <img width="267" alt="image" src="https://github.com/user-attachments/assets/58be0d10-82f8-417b-9841-9605a502c883" />
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/aa78493f-0df9-4b82-bda5-9ef9c018d4b1" />
 
+---------------------
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/76d1f60f-79f3-48e3-bb0f-67f821697dfb" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/21c52602-ff5f-4c7f-a2d7-991c86f044fa" />
