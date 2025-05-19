@@ -7,6 +7,7 @@
 # linearization
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/f955c3f3-dc47-45ac-87c9-223f3bdecd39" />
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/db13e431-89e6-4110-a555-36bd8450c746" />
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/2939a60f-a18f-4ec5-9c1c-e3f0c9c06321" />
 
 -------------
 # Integration by Parts
