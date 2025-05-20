@@ -1,4 +1,7 @@
 # find area
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/3113eecb-252d-4ac5-97f3-d41726cac34e" />
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/468b4c62-3209-485a-971d-4e34c911a0f8" />
+
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/3f3fba00-8fe8-46f1-812a-a4e46ebafabf" />
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/e663bcd2-c182-4425-a3d9-1addee52ced7" />
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/46a6a8a0-7abc-4c28-ba60-1a90f7dfd961" />
