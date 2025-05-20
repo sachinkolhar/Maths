@@ -78,6 +78,11 @@
 <img width="109" alt="image" src="https://github.com/user-attachments/assets/53ecbece-afe0-4413-a632-eaed31a236c8" />
 
 ---------
+# differentiation and differentiability 
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/6bbcef3f-6574-4738-9d68-46f9fe1728ec" />
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/1bba5288-bbb7-4ee3-91cd-d585279958e5" />
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/3f2d6f74-9431-419c-83d1-f7900a70c452" />
+
 ---------
 ---------
 ---------
