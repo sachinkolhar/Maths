@@ -15,7 +15,9 @@
 <img width="251" alt="image" src="https://github.com/user-attachments/assets/7988d98c-a2a0-46b6-9747-c09a89eaed61" />
 ## sandwich theorem
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/86f6668b-4ac2-40eb-a225-6460a1b21974" />
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/534f742f-2c38-47e9-9ec6-9f4b799818af" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/534f742f-2c38-47e9-9ec6-9f4b799818af" /> <br>
+
+-------------
 ## rationalisation
 ![WhatsApp Image 2025-05-20 at 11 03 06_e17ecad9](https://github.com/user-attachments/assets/b46c8ec7-360b-4182-853a-d85f3cd05fc0)
 
@@ -40,6 +42,7 @@
 -----------
 # Continuity
 ![WhatsApp Image 2025-05-20 at 10 34 33_6d1b0cda](https://github.com/user-attachments/assets/877c2a03-aef8-4ebb-9fa8-db057e716b1e)
+<img width="327" alt="image" src="https://github.com/user-attachments/assets/d46852f0-0b5c-4ca0-b9a4-337778a6352a" />
 
 -----------
 # KINEMATICS FORMULAS
