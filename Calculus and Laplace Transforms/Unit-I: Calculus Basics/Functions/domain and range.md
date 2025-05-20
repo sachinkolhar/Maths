@@ -1,3 +1,8 @@
+# formulas
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/73fcbf3a-f1dc-4a34-98f6-36c6f350e196" />
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/41b58b65-1526-4046-bcbd-316d05d3a3aa" />
+
+-----------------
 <img width="333" alt="image" src="https://github.com/user-attachments/assets/38daa8ac-2a3d-45ac-be1a-2b2180737dfc" />
 
 ------------
