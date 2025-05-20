@@ -1,3 +1,35 @@
+# formula
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/3113eecb-252d-4ac5-97f3-d41726cac34e" />
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/468b4c62-3209-485a-971d-4e34c911a0f8" />
+
+------------------
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/94bd45f9-8fbf-4a29-be67-0079ee009f5a" />
+
+-----------------
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/3ace6175-debd-44b2-bdd3-7bc3a2eab9f5" />
+
+----------------
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/8da52b49-6e2e-40d4-8857-c7cd63e44985" />
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/68ecb023-abad-4448-b5d7-254dadcf32f9" />
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/7e2e4a4b-7cea-4cc4-9ab3-35d2a8ec9e76" />
+
+----------------
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/89e97ef1-a0da-4a7c-80d1-24a1f1caa68c" />
+
+----------------
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/6b8ba5fd-2b31-49f5-8ea5-152dc2c78e56" />
+
+----------------
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/5f9ed511-2ee3-431d-8d25-db5de354c8af" />
+
+----------------
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/4219bcb3-686a-4cab-ae0a-2a6a08c9ff3a" />
+
+----------------
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/0fef6055-2958-47b5-9660-95826d47bb04" />
+
+----------------
+
 # Find the area under the curve for the following:
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/3900da44-858e-4f9d-a0f4-01dae36afaee" /> <br>
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/62c24cf7-3eee-4e17-9fee-4e31bdadc95a" /> <br>
@@ -115,3 +147,8 @@
 <img width="299" alt="image" src="https://github.com/user-attachments/assets/dfaeebd8-0eae-4c23-9c3f-62deabbae28d" />
 <img width="295" alt="image" src="https://github.com/user-attachments/assets/af5d65ad-785d-44c3-964f-e5a599a9312b" />
 
+--------------------
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/67a1465c-79bf-405e-8201-e4e240e161cc" />
+
+----------
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/6f2b7162-b9be-47d0-810d-2f812f450803" />
