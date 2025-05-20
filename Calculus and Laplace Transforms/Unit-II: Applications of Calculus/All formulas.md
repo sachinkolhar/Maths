@@ -21,7 +21,7 @@
 
 -----------------------
 # **Conclusion: How to Find Local and Absolute Maxima & Minima**
-<img width="245" alt="image" src="https://github.com/user-attachments/assets/ce2a7858-4453-4057-a143-e02c0175a844" />
+![WhatsApp Image 2025-05-20 at 13 09 01_084429f6](https://github.com/user-attachments/assets/f9afd1f9-bce0-450d-ac55-e73b9442dfd0)
 
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/ec16dc88-3aa0-4c7c-ada2-13bda2278cee" />
 <img width="287" alt="image" src="https://github.com/user-attachments/assets/23fd7cce-8f9e-4749-8aba-a5859d5a355f" />
