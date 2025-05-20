@@ -124,3 +124,11 @@ where k is any integer (…,-2, -1, 0, 1, 2, …).
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/e9a308a8-dcbd-4919-9c7f-2737f0bdfa18" />
 
 -------
+# Even an odd function of trigonometry
+<img width="342" alt="image" src="https://github.com/user-attachments/assets/7ea729b9-9acf-45f2-951b-2ae66da0965f" />
+
+-------------------
+# Domain and range of trigonometric functions
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/39a4ea5c-f521-401a-9a17-dbb21447a31c" />
+
+
