@@ -100,37 +100,7 @@ This eliminates the $\sin(x)$ term in the denominator, making it easier to integ
 Don't worry if it doesn't click immediately! It takes practice to develop this intuition. Keep working through examples, and you'll start to recognize these situations more easily.
 
 -----
-# trigonometric identities for the sum and difference of angles:
 
-**Sine Identities:**
-
-* **Sine of a Sum:**
-    $$\sin(A + B) = \sin(A) \cos(B) + \cos(A) \sin(B)$$
-
-* **Sine of a Difference:**
-    $$\sin(A - B) = \sin(A) \cos(B) - \cos(A) \sin(B)$$
-
-**Cosine Identities:**
-
-* **Cosine of a Sum:**
-    $$\cos(A + B) = \cos(A) \cos(B) - \sin(A) \sin(B)$$
-
-* **Cosine of a Difference:**
-    $$\cos(A - B) = \cos(A) \cos(B) + \sin(A) \sin(B)$$
-
-**Tangent Identities:**
-
-* **Tangent of a Sum:**
-    $$\tan(A + B) = \frac{\tan(A) + \tan(B)}{1 - \tan(A) \tan(B)}$$
-
-* **Tangent of a Difference:**
-    $$\tan(A - B) = \frac{\tan(A) - \tan(B)}{1 + \tan(A) \tan(B)}$$
-
-**Key Points:**
-
-* These identities are fundamental in trigonometry and are used to derive other trigonometric formulas and solve various problems.
-* The signs in the cosine identities are opposite to those in the sine identities.
-* The tangent identities are derived from the sine and cosine identities.
 
 ----
 # **Substitution in Integration (u-substitution)**
