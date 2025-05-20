@@ -54,3 +54,6 @@ linear approximation
 # 12
 <img width="289" alt="image" src="https://github.com/user-attachments/assets/2360ee81-5e44-4dd6-984c-d3ee522a7620" />
 
+--------------
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/4b71c2e4-832b-4c28-a920-56b9e112d088" />
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/dc3fe0fc-d20d-4ba2-a063-2d1b47dc9b79" />
